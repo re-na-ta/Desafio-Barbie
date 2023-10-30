@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    text-transform: initial;
+    background-color: #F244A4;
+    opacity: calc(0.8);
+    border-radius: 1.5em;
+    width: 15em;
+    margin: 250px auto 0;
+}
+
+body {
+    background-image: url(imagens/formas-de-papel-psicodelico-com-espaco-de-copia.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family:fantasy;
+    color: #F2B705;
+}
